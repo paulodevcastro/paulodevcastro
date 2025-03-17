@@ -10,7 +10,7 @@ But I play with other languages ​​sometimes 🙂
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
