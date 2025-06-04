@@ -1,11 +1,16 @@
-##  HEY👋 Okay? Welcome!
+##  Opa! Tudo bom, seja bem-vindo ao meu GitHub
 
+Sou
 **`Back-End Developer`**</br>
 
-My name is Paulo Castro and I'm a Java Developer, from PE - Brazil</br>
-But I play with other languages ​​sometimes 🙂
+Me chamo Paulo Furtado e sou um Dev Java - Pernambucano Brasil</br>
+Uso e mexo com outras linguagens as vezes:
 
-<h2 align="left">Techs</h2>
+* Batch
+* ShellScript
+* Lua
+
+<h2 align="left">Tecnologias</h2>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
@@ -25,8 +30,8 @@ But I play with other languages ​​sometimes 🙂
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
 </div>
 
-<h2 align="left">Stats</h2>
+<h2 align="left">Estatísticas</h2>
 
 <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=paulodevcastro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=true&order=2&custom_title=Languages" height="200" alt="languages graph"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=paulodevcastro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2&custom_title=Languages" height="200" alt="languages graph"
 />
