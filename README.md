@@ -1,10 +1,10 @@
-##  Opa! Tudo bom, seja bem-vindo ao meu GitHub
+##  Opa! Tudo bom? Seja bem-vindo ao meu GitHub
 
 Sou
 **`Back-End Developer`**</br>
 
-Me chamo Paulo Furtado e sou um Dev Java - Pernambucano Brasil</br>
-Uso e mexo com outras linguagens as vezes:
+Me chamo Paulo Furtado e sou um Dev Java - Pernambucano Brasil.</br>
+Uso e mexo com outras linguagens as vezes, como:
 
 * Batch
 * ShellScript
