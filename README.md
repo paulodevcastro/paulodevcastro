@@ -29,9 +29,3 @@ Uso e mexo com outras linguagens as vezes, como:
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
 </div>
-
-<h2 align="left">Estatísticas</h2>
-
-<img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=paulodevcastro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&order=2&custom_title=Languages" height="200" alt="languages graph"
-/>
