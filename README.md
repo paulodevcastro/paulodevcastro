@@ -3,8 +3,8 @@
 Sou
 **`Back-End Developer`**</br>
 
-Me chamo Paulo Furtado, desenvolvo aplicações com Java e Spring Boot - Brasil - PE.</br>
-as vezes crio apps full-stack, com React Web e React-Native pra mobile
+Me chamo Paulo Furtado e desenvolvo aplicações com Java e Spring Boot | Brasil - PE 🗺️</br>
+As vezes crio apps full-stack, com React Web e React-Native pra mobile.
 
 <h2 align="left">Tecnologias</h2>
 
