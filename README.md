@@ -1,4 +1,4 @@
-##  Opa! Tudo bom? Seja bem-vindo ao meu GitHub
+##  Olá! Este é o meu GitHub voltado para programação
 
 Sou
 **`Back-End Developer`**</br>
