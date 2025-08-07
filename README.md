@@ -3,12 +3,8 @@
 Sou
 **`Back-End Developer`**</br>
 
-Me chamo Paulo Furtado e sou um Dev Java - Pernambucano Brasil.</br>
-Uso e mexo com outras linguagens as vezes, como:
-
-* Batch
-* ShellScript
-* Lua
+Me chamo Paulo Furtado, desenvolvo aplicações com Java e Spring Boot - Brasil - PE.</br>
+as vezes crio apps full-stack, com React Web e React-Native pra mobile
 
 <h2 align="left">Tecnologias</h2>
 
