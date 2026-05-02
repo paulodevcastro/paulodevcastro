@@ -3,9 +3,7 @@
 Bem-vindo ao meu espaço de projetos!
 Sou um **Analista de Sistemas** e desenvolvo diagnósticos e soluções voltado para o Windows como hobby. Também desenvolvo micro soluções utilizando Java com Spring Boot.
 
----
-
-## Destaques
+Destaques
 
 ## Para Windows
 - Foco em desenvolvimento de scripts voltados para automação de tarefas e redução de trabalhos.
@@ -16,7 +14,7 @@ Sou um **Analista de Sistemas** e desenvolvo diagnósticos e soluções voltado 
 ## Arquitetura
 - Modelagem de sistemas, definição de camadas e documentação de arquiteturas orientadas.
 
-## 🛠️ Tecnologias Utilizadas
+<h2>🛠️ Tecnologias Utilizadas</h2>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
